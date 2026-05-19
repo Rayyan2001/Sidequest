@@ -1,0 +1,7 @@
+# Environment variables (ALL env files)
+.env
+.env.*
+!.env.example
+
+# Database schema (optional - depends on use)
+# schema.sql
