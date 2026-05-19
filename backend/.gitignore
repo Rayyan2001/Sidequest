@@ -1,7 +1,9 @@
 # Environment variables (ALL env files)
-.env
-.env.*
-!.env.example
+env/
+env*/
+venv/
+.venv/
+README.md
 
 # Database schema (optional - depends on use)
 # schema.sql
